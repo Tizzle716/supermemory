@@ -19,7 +19,7 @@
     "compromise": "^14.14.2",
     "dotenv": "^16.4.5",
     "drizzle-kit": "^0.25.0",
-    "drizzle-orm": "^0.34.1",
+    "drizzle-orm": "^0.44.4",
     "hono": "^4.6.4",
     "openai": "^4.68.4",
     "postgres": "^3.4.4",
